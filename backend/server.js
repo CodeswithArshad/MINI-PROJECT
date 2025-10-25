@@ -22,7 +22,7 @@ app.use(express.json());
 app.use(
   cors({
     origin: [
-      "https://ai-proctored-system.vercel.app",
+      "https://mini-project-ivory-seven.vercel.app",
       "http://localhost:3000",
       "http://localhost:5000",
     ],
